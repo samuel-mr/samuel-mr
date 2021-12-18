@@ -5,3 +5,7 @@ ___
 
 - 🌱 I’m currently learning Kotlin, Rust, Unreal
 - 👯 I’m looking to collaborate on Android, WPF
+
+___
+
+[![](https://github-readme-stats.vercel.app/api?username=samuel-mr&show_icons=true&theme=dark)](https://github.com/samuel-mr)
