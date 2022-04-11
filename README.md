@@ -3,8 +3,8 @@
 I'm Samuel ✨ currently upgrading all `code`.
 ___
 
-- 🌱 I’m currently learning Kotlin, Rust, Unreal
-- 👯 I’m looking to collaborate on Android, WPF
+- 🌱 I’m currently learning Kotlin and Rust
+- 👯 I’m looking to collaborate on Android or WPF
 
 ___
 
