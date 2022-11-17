@@ -3,8 +3,8 @@
 I'm Samuel, WPF developer ✨ currently exploring other programming fields.
 ___
 
-- 🌱 I’m currently learning `Kotlin` and `Rust`
-- 👯 I’m looking to collaborate on `Android` or `WPF` projects
+- 🌱 I’m currently learning `Rust`
+- 👯 I’m looking to collaborate on `Android`, `WPF` o `Rust` projects
 
 ___
 
