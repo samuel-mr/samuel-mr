@@ -1,6 +1,6 @@
 ### Hi there 👋 <img align="right" src="https://komarev.com/ghpvc/?username=samuel-mr" alt="samuel-mr" />
 
-I'm Samuel, WPF developer ✨ currently exploring other programming fields.
+I'm Samuel, .Net developer ✨ currently exploring other programming fields.
 ___
 
 - 🌱 I’m currently learning `Rust`
